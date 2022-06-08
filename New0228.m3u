@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/128-1284142_news-clipart-tv-broadcasting-sbs-seoul-broadcasting-system.png",002_SBS
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-logo="https://nstatic.jtbc.joins.com/images/etc/img_brand_jtbc.png",003_JTBC
-http://1.214.67.38/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/635034452367707500.png",004_tvN
 https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
 #EXTINF:-1 tvg-logo="http://img.arirang.com/images/prroom/prroom_h1.jpg",008_Arirang
