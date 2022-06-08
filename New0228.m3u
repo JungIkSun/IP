@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/MBC_730x411.jpg",001_MBC
+#EXTINF:-1 tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/MBC_730x411.jpg",001_MBCCC
 http://stream.bsmbc.com/livetv/BusanMBC_TV_livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/128-1284142_news-clipart-tv-broadcasting-sbs-seoul-broadcasting-system.png",002_SBS
 http://123.140.197.22/stream/1/play.m3u8
